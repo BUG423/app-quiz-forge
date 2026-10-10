@@ -1,7 +1,7 @@
 # 🛡️ Quiz Forge
 
-[![Release](https://img.shields.io/github/v/release/BUG423/apps-quiz-forge?display_name=tag&color=brightgreen)](https://github.com/BUG423/apps-quiz-forge/releases)
-[![Build](https://img.shields.io/github/actions/workflow/status/BUG423/apps-quiz-forge/release.yml?label=build)](https://github.com/BUG423/apps-quiz-forge/actions)
+[![Release](https://img.shields.io/github/v/release/BUG423/app-quiz-forge?display_name=tag&color=brightgreen)](https://github.com/BUG423/app-quiz-forge/releases)
+[![Build](https://img.shields.io/github/actions/workflow/status/BUG423/app-quiz-forge/release.yml?label=build)](https://github.com/BUG423/app-quiz-forge/actions)
 [![React](https://img.shields.io/badge/React-19-149ECA?logo=react&logoColor=white)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![PWA](https://img.shields.io/badge/PWA-离线优先-5A0FC8?logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
@@ -14,7 +14,7 @@
 
 ## 📦 下载与安装
 
-前往 **[GitHub Releases 最新发布页](https://github.com/BUG423/apps-quiz-forge/releases/latest)** 获取安装包：
+前往 **[GitHub Releases 最新发布页](https://github.com/BUG423/app-quiz-forge/releases/latest)** 获取安装包：
 
 | 交付形式 | 文件说明 | 适用平台 |
 |---|---|---|
@@ -61,8 +61,8 @@ flowchart LR
 
 ```bash
 # 克隆仓库
-git clone git@github.com:BUG423/apps-quiz-forge.git
-cd apps-quiz-forge
+git clone git@github.com:BUG423/app-quiz-forge.git
+cd app-quiz-forge
 
 # 安装依赖并启动本地开发服务
 npm install
